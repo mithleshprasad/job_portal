@@ -1,0 +1,19 @@
+
+.form_s {
+height: 900px;
+top: 243px;
+left: 27px;
+border-radius: 10px;
+border: 1px;
+
+
+}
+.submit_btn {
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px 30px; /* Adjust pa0ding as needed */
+    border: none; /* Remove border */
+    border-radius: rounded; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+}
